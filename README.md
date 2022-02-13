@@ -1,7 +1,5 @@
 # paper-management
 
-Of the papers I read, those that seem to be valid for me will be left for publication.   
-Place the papers in the folder where I read them.
+Of the papers I read, if they seem useful to me, I will leave them in this repository.  
 
 読んだ論文の内、自分にとって有効でありそうなものはissueに残します。  
-読んだ論文はpaperフォルダに入れていきます。
